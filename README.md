@@ -9,12 +9,12 @@ git clone https://github.com/Suasy/Youth-Learning-Reminder-Release.git
 `如果失败，有可能是没有安装.net环境，可以网上查询解决`
 
 ## 界面说明
-[!成功打开后界面](main.png)
+![成功打开后界面](main.png)
 左侧表格的列分别是 `选择是否发送` `姓名` `邮箱` 
 右侧按钮分别是 `清空选中` `发送邮件`
 下面为`进度条`
 ## 设置说明
-[!设置界面](settings.png)
+![设置界面](settings.png)
 设置中的条目为发送方邮箱设置和发送邮件设置
 条目     | 说明
 -------- | -----
